@@ -6,4 +6,5 @@ A plain Java program xpath.java that reads some search keywords from input, sear
 2.	Print the name and the minimum price of all products whose name contains the word Sony.
 3.	Print the names of all products whose name contains the word Sony and the price is between $1000 and $2000, inclusive.
 
-An XSLT program search.xsl to display the search results by transforming the XML result to XHTML using XSLT that contains the components you generated for the search results in Project #3: the id, sourceURL, name, minPrice, and fullDescription. Use the Java program xslt.java to test the XSLT file and then load the resulting html output file on the web browser.
+An XSLT program search.xsl to display the search results by transforming the XML result to XHTML using XSLT that contains the components you generated for the search results generated from buy.php: the id, sourceURL, name, minPrice, and fullDescription. 
+Use the Java program xslt.java to test the XSLT file and then load the resulting html output file on the web browser.
